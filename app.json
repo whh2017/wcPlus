@@ -1,0 +1,13 @@
+{
+  "pages": [
+    "pages/login/login",
+    "pages/index/index",
+    "pages/logs/logs"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#009ee5",
+    "navigationBarTitleText": "围诚Plus",
+    "navigationBarTextStyle": "white"
+  }
+}
